@@ -5,7 +5,6 @@ Capstone Project on Gait recognition and Analysis for Person Identification at P
 * View transformation (This is a major part of the project which would help make it very versatile)
 
 ## Ongoing Work
-* Writing a robust script for preprocessing images with a 90 degree view
 * Using Siamese Twins model to measure the effectiveness in similarity prediction between two gait samples
 
 ## Completed Work
@@ -16,6 +15,8 @@ Capstone Project on Gait recognition and Analysis for Person Identification at P
     * Frame Diffrence Energy Image
 * Data preprocessing for model training (Done only for images with a 90 Degree view)
 * Testing of Siamese-Twins model on a very small subset of data
+* Writing a robust script for training data generation
+
 
 ## Technolgies used
 * Python 3.6 - 3.9
